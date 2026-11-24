@@ -37,4 +37,4 @@
 
 Страница
 
-[ВСТАВИТЬ ССЫЛКУ НА ОПУБЛИКОВАННЫЙ САЙТ]
+https://elonijjzs-stack.github.io/group-data/
